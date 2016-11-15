@@ -1,6 +1,3 @@
-backup of [https://github.com/shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)  
-copy from [release 2.8.2](https://github.com/shadowsocks/shadowsocks/releases/tag/2.8.2)
-
 shadowsocks
 ===========
 
